@@ -535,3 +535,12 @@ This service can be developed, deployed, and scaled independently of other servi
 What are some challenges of managing microservices?
 How do you handle service discovery in a Node.js-based microservices setup?
 Can you explain the concept of API gateways for microservices?
+How do you handle asynchronous operations in Node.js? Can you provide an example using both callbacks and Promises?
+how do i propagate errors from nested asynchronous function to top level
+QQQ
+How do I handle Validation errors in Express Js application
+QQQ
+What is difference between synchronous and asynchronouse error handling
+QQQ
+how to create custom error class in NodeJs
+https://github.com/Gauthamjm007/Backend-NodeJS-Golang-Interview_QA?tab=readme-ov-file#what-is-a-child_process-module-in-nodejs
